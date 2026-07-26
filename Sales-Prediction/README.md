@@ -172,6 +172,7 @@ Sales Prediction Using Machine Learning/
 ## ⭐ Conclusion
 
 This project provided hands-on experience in regression techniques and predictive analytics. After comparing multiple models, **Random Forest Regressor** delivered the best prediction performance.
+
 ---
 
 ## 👩‍💻 About the Author
