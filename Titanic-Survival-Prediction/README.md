@@ -166,14 +166,6 @@ Titanic Survival Prediction/
 ├── graphs/
 ├── README.md
 └── dataset.csv
-```
-## 🏢 Internship
-
-**Organization:** CodSoft
-
-**Role:** Data Science Intern
-
-This project was completed during my Data Science Internship at CodSoft, where I gained practical experience in applying machine learning techniques to real-world datasets.
 
 ---
 
