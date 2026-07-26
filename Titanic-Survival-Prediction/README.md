@@ -185,6 +185,3 @@ This project helped me understand the complete classification workflow, from pre
 
 Hi! I'm **Aditi Khabale**, a final-year **B.Sc. Data Science** student with a strong interest in **Machine Learning, Artificial Intelligence, and Data Analytics**.
 
-I completed this project during my **Data Science Internship at CodSoft** to gain practical experience in building classification models using real-world datasets. Through this project, I improved my understanding of data preprocessing, exploratory data analysis, feature engineering, and model evaluation.
-
-I enjoy learning new technologies and building projects that strengthen my practical skills in data science.
