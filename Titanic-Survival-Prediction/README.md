@@ -159,13 +159,14 @@ It also gave me practical experience in using machine learning to solve a real-w
 ## 📁 Project Structure
 
 ```
-Titanic Survival Prediction/
+Credit Card Fraud Detection/
 │
-├── Titanic_Survival_Prediction.ipynb
-├── Titanic Survival Prediction.pdf
+├── Credit_Card_Fraud_Detection.ipynb
+├── Credit Card Fraud Detection.pdf
+├── dataset.csv
 ├── graphs/
-├── README.md
-└── dataset.csv
+└── README.md
+```
 
 ---
 
@@ -173,7 +174,10 @@ Titanic Survival Prediction/
 
 This project helped me understand the complete classification workflow, from preprocessing and visualization to model evaluation. Among all the models tested, **Random Forest** achieved the best performance.
 
+---
+
 ## 👩‍💻 About the Author
 
 Hi! I'm **Aditi Khabale**, a final-year **B.Sc. Data Science** student with a strong interest in **Machine Learning, Artificial Intelligence, and Data Analytics**.
+
 
